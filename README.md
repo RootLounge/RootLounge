@@ -3,6 +3,7 @@
 I’m focused on building hands-on skills in:
 
 - 🔐 Cybersecurity (CompTIA A+, Security+ topics)
+- 🐍 Intro Python scripting for tools and automation
 - 🧠 Linux and command-line tools
 - 🏗️ OT/ICS frameworks like Purdue Model & NIST 800-82
 - 🤖 AI fundamentals (CUNY AI course completed)
